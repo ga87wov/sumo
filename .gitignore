@@ -28,35 +28,6 @@
 /build/cmake-build*
 /build/cmake_build*
 /build/cmake-codeblocks*
-# bin dir
-/bin/TraCITestClient*
-/bin/activitygen*
-/bin/dfrouter*
-/bin/duarouter*
-/bin/emissionsDrivingCycle*
-/bin/emissionsMap*
-/bin/jtrrouter*
-/bin/marouter*
-/bin/netconvert*
-/bin/netedit*
-/bin/netgenerate*
-/bin/od2trips*
-/bin/polyconvert*
-/bin/sumo*
-/bin/sumo-gui*
-/bin/testcommon*
-/bin/testfoxtools*
-/bin/testgeom*
-/bin/testmicrosim*
-/bin/testnetbuild*
-/bin/testlibsumo*
-/bin/*.dll
-/bin/*.so
-/bin/*.pyd
-/bin/osgPlugins*
-/bin/TraaS.jar
-/bin/RelWithDebInfo
-/bin/libsumo.py
 # docs dir, make artifacts
 /docs/doxygen
 /docs/examples
